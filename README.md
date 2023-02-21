@@ -1,5 +1,5 @@
 
-# MENN Stack Tutorial (MongoDB, Express, Mext.js and Node.js)
+# MENN Stack Tutorial (MongoDB, Express, Next.js and Node.js)
 
 An experimental project to test Next.js as frontend pair with Node.js as backend and MongoDB as database.
 
