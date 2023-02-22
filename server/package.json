@@ -1,13 +1,13 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "",
+  "author": "Paul Nathaniel Sango (paulnathanielsango@gmail.com)",
+  "description": "server",
   "main": "main.ts",
   "scripts": {
     "start": "tsc && node dist/main.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Paolo Sango",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.0",

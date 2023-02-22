@@ -1,6 +1,7 @@
 {
   "name": "client",
   "version": "0.1.0",
+  "author": "Paul Nathaniel Sango (paulnathanielsango@gmail.com)",
   "private": true,
   "scripts": {
     "dev": "next dev",
